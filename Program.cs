@@ -11,3 +11,4 @@ namespace MyTeamCityProject
     }
 }
 Console.WriteLine("Hello, TeamCity! Automatic build test");
+Console.WriteLine("Hello, TeamCity! Test 2");
