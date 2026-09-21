@@ -6,7 +6,7 @@ namespace MyTeamCityProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("VCS Trigger test 2");
+            Console.WriteLine("Hello, TeamCity! CI/CD works!");
         }
     }
 }
