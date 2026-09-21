@@ -6,7 +6,7 @@ namespace MyTeamCityProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, TeamCity! Automatic build test");
+            Console.WriteLine("Automatic VCS trigger test"); 
         }
     }
 }
